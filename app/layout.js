@@ -5,8 +5,8 @@ import { Lexend } from "next/font/google";
 const inter = Lexend({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Blessed Calcos",
-  description: "Tienda oficial de calcomanias blessed",
+  title: "VespSticks",
+  description: "Tienda oficial de Stickes",
 };
 
 export default function RootLayout({ children }) {
